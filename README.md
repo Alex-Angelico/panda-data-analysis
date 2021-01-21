@@ -16,7 +16,7 @@ https://github.com/Alex-Angelico/panda-data-analysis/pull/1
 
 ## Description
 
-Visualize data queries pertaining to video game sales and bicycle use statistics via the pandas Python library.
+Visualize data queries pertaining to video game sales and bicycle trip statistics via the pandas Python library.
 
 ----
 
@@ -44,4 +44,5 @@ For Cycle Share data visualization, open ```bike-stats.ipynb```
 
 ## Change Log
 
-0.1: *Planning work* - 20 Jan 2021
+0.3: *Simple queries working* - 20 Jan 2021
+0.1: *Planning work* - 19 Jan 2021
