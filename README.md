@@ -44,5 +44,6 @@ For Cycle Share data visualization, open ```bike-stats.ipynb```
 
 ## Change Log
 
+0.9: *Complex queries working* - 21 Jan 2021
 0.3: *Simple queries working* - 20 Jan 2021
 0.1: *Planning work* - 19 Jan 2021
