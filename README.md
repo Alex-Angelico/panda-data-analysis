@@ -2,7 +2,7 @@
 
 ## Pandas Data Analysis
 
-Lab03-Data Analysis with Pandas
+Lab 12 - Data Analysis with Pandas
 
 Author: Alex Angelico
 
